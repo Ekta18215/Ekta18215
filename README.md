@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ekta</h1>
 <h3 align="center">A girl with big dreams.✨</h3>
-
+<img src="gif.gif">
 - 📫 How to reach me **ektakumari0013@gmail.com**
+
+- pronouns: She/Her
 
 - ⚡ Fun fact **I am ambivert😜**
 
