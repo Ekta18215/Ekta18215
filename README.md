@@ -2,6 +2,7 @@
 <h3 align="center">A girl with big dreams.✨</h3>
 <img src="gif.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekta18215&label=Profile%20views&color=0e75b6&style=flat" alt="ekta18215" /> </p>
 
 - pronouns: She/Her
 
