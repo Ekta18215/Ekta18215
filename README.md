@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekta18215&label=Profile%20views&color=0e75b6&style=flat" alt="ekta18215" /> </p>
 
-- pronouns: She/Her
+- Pronouns: She/Her
 
-- ⚡ Fun fact **I am ambivert😜**
+- ⚡ Fun fact: **I am ambivert😜**
 
-- 📫 How to reach me **ekta.btech.cs19@iiitranchi.ac.in**
+- 📫 How to reach me: **ekta.btech.cs19@iiitranchi.ac.in**
 
 ***
 <h3 align="left">Connect with me:</h3>
