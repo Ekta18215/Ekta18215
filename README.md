@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I am ambivert😜**
 
-- 📫 How to reach me **ektakumari0013@gmail.com**
+- 📫 How to reach me **ekta.btech.cs19@iiitranchi.ac.in**
 
 ***
 <h3 align="left">Connect with me:</h3>
